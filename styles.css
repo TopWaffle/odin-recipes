@@ -8,17 +8,12 @@ h2 {
     text-align: center;
     font-weight: bold;
     background-color: #303B4B;
+    color: #3D90D2;
 }
 
 h1 {
-    color: #3D90D2;
     font-size: 40px;
 }
-
-h2 {
-    color: #FB5235;
-}
-
 
 .image {
     text-align: center;
@@ -26,4 +21,27 @@ h2 {
 
 #index-body {
     align-items: center;
+}
+
+ul {
+    border: 8px solid #303B4B;
+    background-color: #3D90D2;
+    height: 300px;
+   
+}
+
+li {
+    margin-bottom: 8px;
+}
+
+.index-image {
+    display: inline;
+}
+
+img {
+    border: 4px solid #303B4B;
+    margin-bottom: 8px;
+}
+
+#indexlasagna {
 }
