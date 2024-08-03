@@ -26,12 +26,12 @@ h1 {
 ul {
     border: 8px solid #303B4B;
     background-color: #3D90D2;
-    height: 300px;
-   
+    
+    
 }
 
 li {
-    margin-bottom: 8px;
+    margin: 8px 0px;
 }
 
 .index-image {
@@ -41,7 +41,4 @@ li {
 img {
     border: 4px solid #303B4B;
     margin-bottom: 8px;
-}
-
-#indexlasagna {
 }
